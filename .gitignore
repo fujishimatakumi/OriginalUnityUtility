@@ -5,3 +5,5 @@ Temp/
 Assets/Script.meta
 Assets/Script/TestScript.cs
 Assets/Script/TestScript.cs.meta
+*.sln
+obj/
