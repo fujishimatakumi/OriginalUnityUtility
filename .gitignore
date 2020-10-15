@@ -7,3 +7,4 @@ Assets/Script/TestScript.cs
 Assets/Script/TestScript.cs.meta
 *.sln
 obj/
+.vs/
